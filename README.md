@@ -2,13 +2,12 @@
 
 📊 **Dados, BI e automação de processos** · Santa Catarina, Brasil
 
-Transformo processos manuais em sistemas: integro dados de ERP, planilhas, PDFs e APIs públicas, automatizo as rotinas que consomem horas das equipes e entrego painéis que a diretoria usa no dia a dia. Hoje trabalho numa indústria de dispositivos médicos, onde construí e mantenho a plataforma de automação da empresa.
+Transformo processos manuais em sistemas: integro dados de ERP, planilhas, PDFs e APIs públicas, automatizo as rotinas que consomem horas das equipes e entrego painéis que a diretoria usa no dia a dia. Hoje trabalho numa indústria de dispositivos médicos, onde construo automações e painéis para as áreas da empresa.
 
 ## 🚀 Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Central de Automações**](https://github.com/gustavo-koerich/central-automacoes) | Plataforma que agenda e monitora robôs em Docker: dashboard da diretoria, licitações do PNCP, portais OPME e frota. Login com 2FA e cofre de credenciais | Python · Flask · PostgreSQL · Docker · Playwright |
 | [**Conciliação de cartão**](https://github.com/gustavo-koerich/conciliacao-cartao) | Confere a fatura do cartão corporativo, lançamento a lançamento, contra os formulários dos representantes, com trava ao centavo e portal de pendências | Django · HTMX · OCR · RQ/Redis |
 | [**Explorador do SUS**](https://github.com/gustavo-koerich/datasus-explorer) · [ao vivo](https://gustavo-koerich.github.io/datasus-explorer/) | Pipeline que cruza SIH, SIGTAP, CID-10 e CNES e alimenta um dashboard estático de procedimentos hospitalares | Python · pandas · JS |
 | [**Envio de Contracheques**](https://github.com/gustavo-koerich/envio-contracheques) | Programa do RH: confere os recibos, protege cada PDF com AES-256 e envia por e-mail | Python · Tkinter · pypdf |
